@@ -23,7 +23,7 @@
 *.log
 *.sql
 *.sqlite
-<h6> OS generated files
+<h6> OS generated files </h6>
 #####################
 .DS_Store
 .DS_Store?
